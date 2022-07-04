@@ -1,5 +1,8 @@
 # Firebase-Authentication-and-Storage
 Firabase sayesinde ilk önce kayıt oluyoruz e posta ve şifre ile ardından giriş yapıyoruz ve bizi upload Activity ye  yolluyor. Upload Acvitiy de galeriden fotoğraf seçip upload ediyoruz. Upload ettimiz resimleri firabase Storage kısmından görebiliyoruz. Her fotoğrafın başka id si oluyor o yüzden her fotoğraf yükledimizde üst üste binmemiş oluyor.
+--ÖNEMLİ--
+Manifest kısmından internet izni almayı unutmayın.
+Manifest kısmından galeri izni almayı unutmayın .
 
 ![GİRİS](https://user-images.githubusercontent.com/101355515/177194574-395bd7cb-a91b-413c-91ce-afd8212e3807.png)
 ![Screenshot_20220704_194102](https://user-images.githubusercontent.com/101355515/177194588-d49e51fe-2fbe-4ab1-b26f-c10ba50c9a4b.png)
